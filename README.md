@@ -1,7 +1,10 @@
 # base64-encoding-decoding-using-flask-in-python
 Author - BHUMIKA
 <br>
-
+## Project Demo Video
+To provide a clearer understanding of how this Flask API works, I’ve recorded a short demo video using Postman to test the API endpoints.
+<br>
+https://www.loom.com/share/387125355a984f49bfb3317aad69c582?sid=d8bddfa8-8eb6-4795-9534-e8ec6dd42b17
 
 Project: Base64 Encoder and Decoder API Using Flask
 
