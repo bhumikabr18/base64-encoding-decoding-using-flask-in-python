@@ -1,3 +1,5 @@
+# Flask application for Base64 encoding/decoding
+# Loom video for demo: https://www.loom.com/share/387125355a984f49bfb3317aad69c582?sid=60dfe16a-e57c-410c-a31a-1a17a9ea94b3
 from flask import Flask, request, jsonify
 import base64
 
